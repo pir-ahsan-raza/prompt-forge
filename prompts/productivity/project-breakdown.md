@@ -1,6 +1,6 @@
 # Break Down Any Project Into Actual Next Steps
 
-**Use when:** You've got a vague project or goal and you need to turn it into something you can actually start on. The output shouldn't be a project plan — it should be a list of things you can do today.
+**Use when:** You've got a vague project or goal and you need to turn it into something you can actually start on. The output shouldn't be a project plan; it should be a list of things you can do today.
 
 ---
 
@@ -59,6 +59,6 @@ What am I probably underestimating? And what's a realistic range?
 
 ## Notes
 
-The "biggest uncertainty" field is the most important one and the one people skip most often. If you don't know what you're uncertain about, that's the first thing to surface — everything else depends on it.
+The "biggest uncertainty" field is the most important one and the one people skip most often. If you don't know what you're uncertain about, that's the first thing to surface - everything else depends on it.
 
 The "don't give me a full project plan" line exists because without it, you'll get a 12-point waterfall breakdown. That's not useful when you need to start. You can always ask for more depth on a specific area once you know where to focus.

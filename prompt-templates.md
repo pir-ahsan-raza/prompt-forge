@@ -1,6 +1,6 @@
 # Prompt Templates
 
-Reusable structures I keep coming back to. Not fill-in-the-blank fluff —
+Reusable structures I keep coming back to. Not fill-in-the-blank fluff -
 actual patterns that change how the model responds.
 
 ---
@@ -47,7 +47,7 @@ Here's what I've tried:
 
 Here's where I'm stuck:
 [specific blocker]
-Don't give me the answer yet — ask me questions that help me find it.
+Don't give me the answer yet - ask me questions that help me find it.
 
 Underrated. Forces the model into Socratic mode instead of answer-dump mode.
 Works surprisingly well for logic problems.
@@ -77,7 +77,7 @@ to break. Keep it.
 
 Best for: stress-testing an idea before committing to it
 I'm planning to [idea/decision].
-Give me the strongest possible argument against this. Not a balanced take —
+Give me the strongest possible argument against this. Not a balanced take -
 the best case for why this is a bad idea.
 Then tell me what would need to be true for that argument to be wrong.
 

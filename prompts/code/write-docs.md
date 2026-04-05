@@ -1,6 +1,6 @@
 # Write Docs That People Actually Read
 
-**Use when:** You need to write documentation for a function, API, module, or project and you want it to be genuinely useful — not just technically complete.
+**Use when:** You need to write documentation for a function, API, module, or project and you want it to be genuinely useful, not just technically complete.
 
 ---
 

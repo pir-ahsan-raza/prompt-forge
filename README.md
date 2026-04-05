@@ -1,6 +1,6 @@
 # prompt-forge
 
-A curated collection of prompts, skills, and settings I've built up over time while working with AI tools — mostly Claude and GPT. Nothing academic here, just stuff that actually works in day-to-day developer life.
+A curated collection of prompts, skills, and settings I've built up over time while working with AI tools - mostly Claude and GPT. Nothing academic here, just stuff that actually works in day-to-day developer life.
 
 ## What's inside
 
@@ -22,7 +22,7 @@ templates/     → reusable prompt templates with variables
 I got tired of copy-pasting half-working prompts from random Reddit threads and blog posts written by people who clearly don't use these tools daily. So I started keeping my own. The prompts in here are:
 
 - Written like a human, not a robot trying to sound professional
-- Tested on actual work — not toy examples
+- Tested on actual work - not toy examples
 - Commented where the reasoning matters
 - Updated when they stop working as models change
 

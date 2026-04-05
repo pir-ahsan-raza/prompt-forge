@@ -1,4 +1,4 @@
-# Code Review — Honest Feedback Mode
+# Code Review - Honest Feedback Mode
 
 **Use when:** You want a real review, not validation. Especially useful when you've been staring at the same code for hours and your eyes stop seeing the problems.
 
@@ -39,7 +39,7 @@ Code:
 > Ignore everything else. Only look for security vulnerabilities. Be paranoid.
 
 **For a PR review:**
-> I'm reviewing a PR from a junior dev. Give me talking points for the review conversation — frame issues as learning opportunities, not gotchas. Still be accurate.
+> I'm reviewing a PR from a junior dev. Give me talking points for the review conversation - frame issues as learning opportunities, not gotchas. Still be accurate.
 
 **Quick sanity check:**
 > I'm about to ship this. Does anything look obviously wrong? 60-second gut check only.
@@ -50,4 +50,4 @@ Code:
 
 The format matters. Without it you get a wall of prose where critical issues and nitpicks get equal weight, which is annoying.
 
-Specifying language and context actually changes the output significantly — a Python data pipeline has different failure modes than a Node.js API route. Worth the extra two seconds.
+Specifying language and context changes the output a lot - a Python data pipeline has different failure modes than a Node.js API route. Worth the extra two seconds.

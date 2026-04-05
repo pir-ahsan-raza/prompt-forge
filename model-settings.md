@@ -1,7 +1,7 @@
-# Model Settings — What They Actually Do
+# Model Settings - What They Actually Do
 
 These are the settings that matter and what changing them actually feels like
-in practice. Not the documentation definition — the real-world effect.
+in practice. Not the documentation definition - the real-world effect.
 
 ---
 
@@ -35,7 +35,7 @@ you're doing something specific.
 
 ## Max Tokens
 
-Hard limit on output length. The model doesn't "try harder" to be concise —
+Hard limit on output length. The model doesn't "try harder" to be concise -
 it just stops. If a response gets cut off mid-sentence, this is why.
 
 Set it high for long-form tasks. For short Q&A or classification, keep it low

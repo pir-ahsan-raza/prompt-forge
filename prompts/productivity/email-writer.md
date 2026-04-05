@@ -1,6 +1,6 @@
 # Write Emails That Don't Sound Like Emails
 
-**Use when:** You need to write something professional but you don't want it to sound like a corporate memo — and you definitely don't want to spend 20 minutes on it.
+**Use when:** You need to write something professional but you don't want it to sound like a corporate memo, and you definitely don't want to spend 20 minutes on it.
 
 ---
 

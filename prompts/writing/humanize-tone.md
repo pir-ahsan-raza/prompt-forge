@@ -35,12 +35,12 @@ Add this line after the main instruction:
 > Same rules, but also cut word count by 30% without losing the point.
 
 **For emails:**
-> Tone should be direct and warm — like a colleague you actually like, not a press release.
+> Tone should be direct and warm - like a colleague you actually like, not a press release.
 
 ---
 
 ## Notes
 
-Works best when you give it full paragraphs, not bullet points. If you paste bullets, it'll just clean up each bullet — which is fine, but you lose the flow improvements.
+Works best when you give it full paragraphs, not bullet points. If you paste bullets, it'll just clean up each bullet, which is fine, but you lose the flow improvements.
 
 The phrase blacklist above is the most important part. Models love those filler phrases and will sneak them back in on revision. If you're running multiple passes, re-include the blacklist each time.

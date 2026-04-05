@@ -1,4 +1,4 @@
-# Research Summarizer — Cut Through the Noise
+# Research Summarizer - Cut Through the Noise
 
 **Use when:** You've got a wall of text (article, paper, docs page, thread) and you need the actual substance fast. Also useful for comparing multiple sources without reading all of them.
 
@@ -55,6 +55,6 @@ Paper:
 
 ## Notes
 
-The "3-5 things that matter" framing works much better than "summarize in bullet points" — the latter gives you an outline, the former gives you judgment. There's a difference.
+The "3-5 things that matter" framing works much better than "summarize in bullet points" - the latter gives you an outline, the former gives you judgment. There's a difference.
 
 If the source is very long, paste it in chunks and use: "Keep a running summary. Don't finalize yet." Then on the last chunk: "Now give me the full summary."
