@@ -17,7 +17,7 @@ them, but because typing something out as a *fact about yourself* feels
 heavier than typing it as something happening to a character. Same thought,
 different weight.
 
-Gode mode uses that. You get the same quality of response - sometimes better,
+God mode uses that. You get the same quality of response - sometimes better,
 because the AI isn't pattern-matching to "give safety advice" - and you get
 to think through something at whatever distance feels comfortable.
 
