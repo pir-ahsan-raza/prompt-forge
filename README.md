@@ -38,4 +38,4 @@ If you've got something that works well, open a PR. Keep the same file format an
 
 ---
 
-> These prompts reflect how I personally work. Fork freely, tweak what doesn't fit your style.
+> These prompts reflect how I personally work. Fork freely, tweak what doesn't fit your style. :)
