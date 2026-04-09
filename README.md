@@ -1,4 +1,4 @@
-# !prompt-forge
+# prompt-forge
 
 A curated collection of prompts, skills, and settings I've built up over time while working with AI tools - mostly Claude and GPT. Nothing academic here, just stuff that actually works in day-to-day developer life.
 
