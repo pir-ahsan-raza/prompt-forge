@@ -1,4 +1,4 @@
-# !God Mode (Jailbreak)
+# God Mode (Jailbreak)
 
 A simple framing technique. Instead of talking to an AI directly about
 something personal, you open a "story" - and the AI engages with it as
